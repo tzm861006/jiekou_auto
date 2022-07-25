@@ -1,0 +1,17 @@
+2022-07-24 20:24:03,268 - test - DEBUG - 用例开始了，当前时间为2022-07-24 20-24-03
+2022-07-24 20:24:03,268 - test - DEBUG - 接口地址为http://192.168.1.10:8000/v1/auth,格式为<class 'str'>
+2022-07-24 20:24:03,272 - test - DEBUG - 需要传递的参数为{'username': '1111', 'password': '3333'},格式为<class 'dict'>
+2022-07-24 20:24:03,272 - test - DEBUG - 请求方式为post,格式为<class 'str'>
+2022-07-24 20:24:03,280 - test - DEBUG - 正确
+2022-07-24 20:24:03,280 - test - DEBUG - 同步用例1结果
+2022-07-24 20:24:03,350 - test - DEBUG - 接口地址为http://192.168.1.10:8000/v1/cards?token=eyJhbGciOiJIUzI1NiIsImlhdCI6MTY1ODY2NDc3NywiZXhwIjoxMjAwMDE2NTg2NjQ3Nzd9.eyJpZCI6MX0.fcywlu2qpWKzg0LRMRoXq_gO3K8IzkhKPB6hwJPue6g,格式为<class 'str'>
+2022-07-24 20:24:03,350 - test - DEBUG - 需要传递的参数为{'type': '1', 'cardno': '719371'},格式为<class 'dict'>
+2022-07-24 20:24:03,350 - test - DEBUG - 请求方式为post,格式为<class 'str'>
+2022-07-24 20:24:03,362 - test - DEBUG - 正确
+2022-07-24 20:24:03,362 - test - DEBUG - 同步用例2结果
+2022-07-24 20:24:03,389 - test - DEBUG - 接口地址为http://192.168.1.10:8000/v1/cards/719371?token=eyJhbGciOiJIUzI1NiIsImlhdCI6MTY1ODY2NDc3NywiZXhwIjoxMjAwMDE2NTg2NjQ3Nzd9.eyJpZCI6MX0.fcywlu2qpWKzg0LRMRoXq_gO3K8IzkhKPB6hwJPue6g,格式为<class 'str'>
+2022-07-24 20:24:03,389 - test - DEBUG - 需要传递的参数为{'balance': '1000'},格式为<class 'dict'>
+2022-07-24 20:24:03,389 - test - DEBUG - 请求方式为put,格式为<class 'str'>
+2022-07-24 20:24:03,405 - test - DEBUG - 正确
+2022-07-24 20:24:03,405 - test - DEBUG - 同步用例3结果
+2022-07-24 20:24:03,436 - test - DEBUG - 用例结束了了，当前时间为2022-07-24 20-24-03
